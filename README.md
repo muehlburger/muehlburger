@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muehlburger)](https://github.com/muehlburger/github-readme-stats)
+
 - 🔭 I’m currently founding [IT-ZT](https://www.it-zt.at)
 - 😎 I'm an IT-Ziviltechniker (independent IT-Solution Architect, Software Engineer)
 - 🌱 I’m currently researching on how to apply AI (specifically deep learning) methods in software (security) testing.
