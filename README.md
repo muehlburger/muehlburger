@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![Herbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=muehlburger&show_icons=true&theme=default)](https://github.com/muehlburger/github-readme-stats)
-
 I'm Herbert Mühlburger — founder of [AI-Trust ZT GmbH](https://www.it-zt.at), a chartered engineering consultant firm in Austria specializing in AI consulting and software engineering. I'm also a PhD candidate at TU Graz, researching ML-based fault detection in cyber-physical systems.
 
 ---
